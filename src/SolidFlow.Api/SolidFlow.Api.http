@@ -1,0 +1,6 @@
+@SolidFlow.Api_HostAddress = http://localhost:5025
+
+GET {{SolidFlow.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
