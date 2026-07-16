@@ -12,6 +12,8 @@ A compact .NET reference implementation of SOLID design in a realistic
 pricing domain. Add customer, volume, or campaign rules without rewriting the
 quote engine.
 
+**[Explore SOLID →](https://lcarlini.github.io/SOLID/)** — a short, visual walkthrough of the five principles using this project as the example.
+
 </div>
 
 ## Why SolidFlow?
